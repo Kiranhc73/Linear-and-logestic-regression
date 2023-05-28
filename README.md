@@ -1,1 +1,2 @@
 # Linear and logestic regression regression
+This repository contains Python implementations of linear and logistic regression algorithms. These algorithms are widely used in machine learning and data analysis for predicting continuous and categorical outcomes, respectively. The code provided here serves as a basic implementation that can be easily understood and extended for more complex scenarios.
