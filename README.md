@@ -1,1 +1,1 @@
-# Linear-regression
+# Linear and logestic regression regression
