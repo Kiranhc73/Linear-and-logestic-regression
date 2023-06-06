@@ -38,14 +38,7 @@ The repository is structured as follows:
   - `logistic_regression.py`: Python script to perform logistic regression on the churn data.
   - `logistic_regression_results.txt`: Text file containing the results and evaluation metrics of the logistic regression model.
 
-## Usage
 
-To replicate the results, you can follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/linear-logistic-regression.git`
-2. Install the required dependencies.
-3. Navigate to the `linear_regression/` directory and run the `linear_regression.py` script to perform linear regression on the Boston housing data.
-4. Navigate to the `logistic_regression/` directory and run the `logistic_regression.py` script to perform logistic regression on the churn data.
 
 Feel free to explore the code and make any necessary modifications to suit your specific use case.
 
